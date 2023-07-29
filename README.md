@@ -14,9 +14,13 @@ You can contact me via [LinkedIn](https://www.linkedin.com/in/bruno-mollo/)
 
 ## 🔧 Technologies & Tools
 
+![](https://img.shields.io/badge/Lang-Pascal-informational?style=flat&logo=pascal&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lang-Dolphin%20Small%20Talk-informational?style=flat&logo=pascal&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lang-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lang-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/☕︎Lang-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lang-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lang-Csharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
 
 
@@ -40,7 +44,3 @@ You can contact me via [LinkedIn](https://www.linkedin.com/in/bruno-mollo/)
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=BrunoMollo&theme=radical&show_icons=true" alt="Iván's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoMollo&theme=radical"/> 
 <div>
-
-[Bruno Mollo](https://www.linkedin.com/in/bruno-mollo/)
-
-
