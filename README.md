@@ -36,8 +36,8 @@ You can contact me via [LinkedIn](https://www.linkedin.com/in/bruno-mollo/)
 
 ## &#x1f4c8; GitHub Stats
 <div class="img-container">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanDec0&&theme=radical&show_icons=true&langs_count=5" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=BrunoMollo&theme=radical&show_icons=true" alt="Iván's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMollo&&theme=radical&show_icons=true&langs_count=7" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=BrunoMollo&theme=radical&show_icons=true" alt="Brunos Mollo's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoMollo&theme=radical"/> 
 <div>
 
