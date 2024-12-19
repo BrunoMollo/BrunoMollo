@@ -1,4 +1,4 @@
-<h1 align="center"><< Bruno Mollo >>  👨‍💻</h1>
+<h1 align="center">< Bruno Mollo />  👨‍💻</h1>
 
 <h3 align="center"> Advanced Systems Engineer, currently in Argentina</h3>
 
